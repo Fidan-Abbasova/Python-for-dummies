@@ -1,0 +1,4 @@
+n=5
+print(n)#!/usr/local/bin/python3.7
+n=n+1
+while n<12 print('below dozen')
